@@ -1,0 +1,10 @@
+# Repair log and info for HP 3458A
+
+## Origin
+Found in the SWAP bin with a note claiming it cannot read DC Volts. Like the K-2000, this is just the default blank screen after ADC error on startup. Otherwise in good condition but missing the feet. No special options, last calibrated 2002-12-03.
+
+## Repairs
+Startup errors are:
+- 110: Calibration needed (maybe result of bad ram)
+- 202: Slave Test - Convergence (the real threat, possibly U180 or U181 failure)
+Glancing around at the boards nothing is visibly broken, and all the power supplies work fine. I can see digital pulses across the fiber optics, but nothing is moving on the analog side. Feeding some DC volts from HP-3245A yields a DCBUF from U170, but no comparator activity on U181 - possibly because LE is held high?
