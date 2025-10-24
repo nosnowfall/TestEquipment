@@ -1,0 +1,7 @@
+# Repair log and info on Keithley 580
+
+## Origin
+Found it in the SWAP bin with a pair of less interesting vintage DMMs. The unit powers on but most soft buttons seem inoperative, and the piano buttons are all stuck.
+
+## Repairs
+It all looks good inside so I've left the capacitors alone for now - might come back to that. Lots of deoxit solves the piano button issue, but 3/4 soft buttons still inoperative. I searched a while for replacement conductive rubber pads to no avail. Since the buttons don't get much use, I'll just coat the pads in copper foil tape - if the pcb wears out it'll just be some simple fix down the road.
