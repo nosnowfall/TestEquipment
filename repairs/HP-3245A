@@ -1,0 +1,10 @@
+# Repair log and info for HP3245A
+I have the dual-source option, instead of the much more popular high-voltage amplifier option. Oh well...
+
+## Origin
+Once again, SWAP bin find. This one reports a pretty clear inguard source error, and boy is it dirty!
+
+## Repairs
+The fan is disgusting and covered in black dust, like something caught fire inside. Everything else looks pretty good, and we can run self tests from the front panel just like the manual tells us to.
+Several forum users found issue with the bus capacitor for the inguard source's switch mode power supply, and source 2 in this unit is no exception - the capacitor is completely charred. It is an obsolete high ripple current type, but parts with similar rating are now commodity. Cascading failure is not unlikely so I probed around while waiting for replacement parts to arrive. The input fuse is blown, but so apparently is something in the gate drive loop for that SMPS, with a short to ground near the transistor's gate or drain (its a strange topology). I removed the gate resistor, isolating the problem to a gate driver IC rather than the MOSFET; thankfully these are still produced.
+The new driver (socketed) and capacitor are in place, and everything powers up just fine. Like my K-2000 this eventually deserves a calibration, but for now it must wait.
