@@ -1,0 +1,12 @@
+# Repair log and info for Keithley 2000
+
+## Origin
+Found it in the SWAP bin with a sticker claiming it can't read DC Volts. Clearly a deeper issue because at turn-on we get some ADC error! Everything else looks alright, if a little dirty.
+
+## Repairs
+Deep in an EEVblog forum thread I found a hint about the integrator op-amps. This is a multi-slope ADC and the integrator is a composite of AD711 and OPA177GS. This one is railed out no matter the input, and they hold that behavior in a breadboard circuit. Could be that just one is bad, but why take the risk? With both new op amps, the meter is back in action.
+I like this unit and would prefer it to last, so all the electrolytics have been replaced with long-lifetime components.
+It probably deserves a calibration, but I'm holding off on that kind of expenditure for now.
+
+## Modifications
+I found a switch card for the rear input recently. It was stored in rather static-y plastic bags, so TBD if it actually functions...
