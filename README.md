@@ -9,6 +9,7 @@ For info on pieces I repair or refurbish, please see the associated repair log f
 - HP 3245A, year ???, repaired, not calibrated
 - NanoVNA H4, year 2024, bought new, acceptable specs
 - Brymen BM235, year 2024, bought new, calibrated
+- Stanford Research SR620 Frequency Counter (2x), year ???, a little banged up but functional
 
 # Custom Equipment/Projects
 - Clone of Linear Technology LB018A / TE Load 6W transient load
