@@ -13,7 +13,8 @@ For info on pieces I repair or refurbish, please see the associated repair log f
 
 # Custom Equipment/Projects
 - Clone of Linear Technology LB018A / TE Load 6W transient load
+- Oscilloscope deskew fixture, generates 125mA/2.5V step with <10 ns rise time. based on EEVblog forum thread.
 
 # Current Projects
 - HP 3458A, year ???, failing Slave Test: Convergence
-- Oscilloscope deskew fixture, target 125mA step with <20 ns rise time. based on EEVblog forum thread.
+- HP 54602B, year??, previous owner sabotaged the input protections
