@@ -10,6 +10,7 @@ For info on pieces I repair or refurbish, please see the associated repair log f
 - NanoVNA H4, year 2024, bought new, acceptable specs
 - Brymen BM235, year 2024, bought new, calibrated
 - Stanford Research SR620 Frequency Counter (2x), year ???, a little banged up but functional
+- HP 54602B, year ???, inputs fully repaired and calibrated
 
 # Custom Equipment/Projects
 - Clone of Linear Technology LB018A / TE Load 6W transient load
@@ -17,4 +18,5 @@ For info on pieces I repair or refurbish, please see the associated repair log f
 
 # Current Projects
 - HP 3458A, year ???, failing Slave Test: Convergence
-- HP 54602B, year??, previous owner sabotaged the input protections
+- Stanford Research DS335, year ???, some conductive rubber button issues
+- HP 6642A, year ???, not tested
