@@ -1,5 +1,5 @@
 # TestEquipment
-A list of my electrical test equipment and ongoing projects. I like test equipment. I like to repair things. Sometimes I repair test equipment.
+I like test equipment. I like to repair things. Sometimes I repair test equipment.
 This list is mostly for my own record-keeping, but if you'd like to offer advice on a project or ask about borrowing something, that's cool too.
 For info on pieces I repair or refurbish, please see the associated repair log file.
 
@@ -12,6 +12,7 @@ For info on pieces I repair or refurbish, please see the associated repair log f
 - Stanford Research SR620 Frequency Counter (2x), year ???, a little banged up but functional
 - HP 54602B, year ???, inputs fully repaired and calibrated
 - HP 6642A, year ???, seems functional enough
+- Stanford Research DS345, year ???, seems functional
 
 # Custom Equipment/Projects
 - Clone of Linear Technology LB018A / TE Load 6W transient load
