@@ -13,6 +13,7 @@ For info on pieces I repair or refurbish, please see the associated repair log f
 - HP 54602B, year ???, inputs fully repaired and calibrated
 - HP 6642A, year ???, seems functional enough
 - Stanford Research DS345, year ???, seems functional
+- NI PCI-5105 8-channel, 12 bit, 60 MHz digitizer card
 
 # Custom Equipment/Projects
 - Clone of Linear Technology LB018A / TE Load 6W transient load
@@ -20,4 +21,6 @@ For info on pieces I repair or refurbish, please see the associated repair log f
 
 # Current Projects
 - HP 3458A, year ???, failing Slave Test: Convergence
-- Stanford Research DS335, year ???, some conductive rubber button issues
+- Stanford Research DS335, year ???, some conductive rubber button issues. currently bodged with copper tape
+- Breakout box for PCI-5105, for BNC instead of SMB connection and 50 ohm terminations
+- Keithley 2000-SCAN, either the card or the meter are defective
